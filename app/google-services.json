@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "932808827097",
+    "firebase_url": "https://transaction-ca2fd-default-rtdb.firebaseio.com",
+    "project_id": "transaction-ca2fd",
+    "storage_bucket": "transaction-ca2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932808827097:android:318fc0cc1d6960c57f5ec8",
+        "android_client_info": {
+          "package_name": "com.example.jaymogal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932808827097-0q5mf7uevl3jeq6v12gloiksfg41622b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD47Hxnec6a00fNTulip4gC25IpdaDWbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932808827097-0q5mf7uevl3jeq6v12gloiksfg41622b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932808827097:android:ae25c6ea27b602c77f5ec8",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932808827097-0q5mf7uevl3jeq6v12gloiksfg41622b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD47Hxnec6a00fNTulip4gC25IpdaDWbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932808827097-0q5mf7uevl3jeq6v12gloiksfg41622b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
